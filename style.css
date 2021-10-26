@@ -9,14 +9,15 @@ body {
 }
 
 main {
-  background-image: url(images/Mobile.svg);
+  background: url(images/background.jpg);
   width: 375px;
   height: 812px;
 }
 
 .container {
   max-width: 250px;
-  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
@@ -24,7 +25,7 @@ h1 {
 }
 
 a {
-  color: black;
+  color: rgb(73, 62, 62);
   text-decoration: none;
 }
 
