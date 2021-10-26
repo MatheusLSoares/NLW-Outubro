@@ -6,8 +6,17 @@ body {
 body {
   display: grid;
   place-items: center;
+}
 
-  background-color: lightblue;
+main {
+  background-image: url(images/Mobile.svg);
+  width: 375px;
+  height: 812px;
+}
+
+.container {
+  max-width: 250px;
+  margin: 10px;
 }
 
 h1 {
@@ -21,5 +30,4 @@ a {
 
 .content {
   width: 100%;
-  background-color;
 }
